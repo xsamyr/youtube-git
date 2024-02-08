@@ -12,4 +12,5 @@ depues pa salir "ESC , (wq!)esto lo edita rapido y lo guarda")
 9. git checkout master  
 10. git branch -d rama-heroes (borra la ramas)
 11. git push
+12. git commit -am
 
